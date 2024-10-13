@@ -1,0 +1,22 @@
+{
+  "robtop_videos": [
+    {
+      "title": "Sneak Peek 1",
+      "url": "https://www.youtube.com/watch?v=abcd1234"
+    },
+    {
+      "title": "Geometry Dash Update 2.2 Preview",
+      "url": "https://www.youtube.com/watch?v=efgh5678"
+    }
+  ],
+  "eric_videos": [
+    {
+      "title": "Demon Level Playthrough",
+      "url": "https://www.youtube.com/watch?v=ijkl9101"
+    },
+    {
+      "title": "Geometry Dash Extreme Demon",
+      "url": "https://www.youtube.com/watch?v=mnop1123"
+    }
+  ]
+}
